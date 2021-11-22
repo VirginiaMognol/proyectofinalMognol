@@ -1,0 +1,18 @@
+.carousel-item{
+    width: 50%;
+    left: 25%;
+    
+
+    
+}
+
+
+.carousel-control-next, .carousel-control-prev{
+    visibility: visible;
+    color:var(--color-secundario);
+    font-size: 4rem;
+    font-weight: 800;
+    &:hover {
+        color:var(--color-secundario);
+    }
+}
